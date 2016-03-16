@@ -18,3 +18,11 @@ RNF002: El sistema debe mostrar el error en caso de haberlo
 
 RNF003: El sistema debe mostrar el error en caso de haberlo
 _____________________________________________________
+
+Lista Casos de Uso:
+
+CU001: Registrar Alumnos
+
+CU002: Cargar Materias
+
+CU003: Imprimir Kardex
