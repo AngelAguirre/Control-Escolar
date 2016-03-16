@@ -1,1 +1,12 @@
 Documento de Requisito v1.0
+___________________________________________________
+
+Requisitos Funcionales:
+
+RF001: El sistema debe permitir el registro de alumnos
+
+RF002: El sistema debe imprimir reporte de calificaciones
+
+RF003: El sistema debe permitir la carga de materias
+
+____________________________________________________
