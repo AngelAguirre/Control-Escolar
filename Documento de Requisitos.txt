@@ -31,3 +31,14 @@ ____________________________________________________
 Conclusiones:
 El sistema sirve para gestionar los servicios
 del depaertamento de control escolar
+______________________________________________________
+Grupos registrados
+1
+2
+3
+4
+5
+6
+7
+8
+9

@@ -1,0 +1,29 @@
+commit 1f8ea0ef559e947991077b9390fab5ef3d704ecc
+Author: Angel Eduardo <angel-aguirre.hotmail.com>
+Date:   Wed Mar 16 10:28:30 2016 -0700
+
+    Conclusiones
+
+commit 66045b2ae949176791b37c4e437ef44b2fada58c
+Author: Angel Eduardo <angel-aguirre.hotmail.com>
+Date:   Wed Mar 16 10:26:39 2016 -0700
+
+    Lista Casos de Uso
+
+commit a1a4a2995f4993bd7b9165e8cf8bdf234c1a6a75
+Author: Angel Eduardo <angel-aguirre.hotmail.com>
+Date:   Wed Mar 16 10:24:33 2016 -0700
+
+    Requisitos no Funcionales
+
+commit bc458b8b9b6348098d53ecfbdc4767151c1308e7
+Author: Angel Eduardo <angel-aguirre.hotmail.com>
+Date:   Wed Mar 16 10:16:32 2016 -0700
+
+    Requisitos Funcionales
+
+commit 867e7e789054238e75844693855d7e8774c7172e
+Author: Angel Eduardo <angel-aguirre.hotmail.com>
+Date:   Tue Mar 15 10:53:49 2016 -0700
+
+    Documento de requisitos
